@@ -6,3 +6,4 @@ http://hoelz.ro/blog/language-of-the-month
 
   * [January 2016 - R](https://github.com/hoelzro/language-of-the-month/tree/master/Jan-2016)
   * [February 2016 - Elm](https://github.com/hoelzro/language-of-the-month/tree/master/Feb-2016)
+  * [March 2016 - Racket](https://github.com/hoelzro/language-of-the-month/tree/master/March-2016)
