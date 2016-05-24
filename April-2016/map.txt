@@ -1,0 +1,25 @@
+┌────────────────────────────────────┐
+│H            ❌             C       D│
+│ ┌──────────┐ ┌───────────┐ ┌───────┘
+│ │          │ │           │ │
+│ │          │ │           │ │
+│ │          │ │           │ │
+│ │          │ │           │ │
+│ │          │E│           │ │
+│ │          │ │           │ │
+│B│          │ │           │ │
+│ │          │ │           │ │
+│ │          │ │           │ │
+│ └──────────┘ └───────────┘ │
+│A            F             G│
+└────────────────────────────┘
+
+❌ This is your home.
+A You're at Alice's Axes, where one can buy wood cutting implements and lines for use on charts.
+B You're at Alice's House.
+C You're at Bob's Barrels.  Bob is one of the coopers in town.
+D You're at Bob's House.
+E You're at the Market.  The smell of fresh food fills your nostrils.
+F You're at Carol's Barrels.  Carol is a cooper in town in fierce competition with Bob.
+G You see a cherubic fountain.
+H You stand in front of a castle.

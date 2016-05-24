@@ -1,0 +1,3 @@
+require ElixirRpg
+
+ElixirRpg.main
